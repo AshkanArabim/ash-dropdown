@@ -1,0 +1,22 @@
+{
+  "name": "ash-dropdown",
+  "version": "1.0.0",
+  "description": "A small module for handling navbar dropdown menus. It uses a class-based system. The style of these classes can be modified using an external CSS file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshkanArabim/ash-dropdown.git"
+  },
+  "keywords": [
+    "['dropdown-menu']"
+  ],
+  "author": "AshkanArabim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshkanArabim/ash-dropdown/issues"
+  },
+  "homepage": "https://github.com/AshkanArabim/ash-dropdown#readme"
+}

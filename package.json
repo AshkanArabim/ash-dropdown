@@ -2,7 +2,7 @@
   "name": "ash-dropdown",
   "version": "1.0.0",
   "description": "A small module for handling navbar dropdown menus. It uses a class-based system. The style of these classes can be modified using an external CSS file.",
-  "main": "index.js",
+  "main": "ash-dropdown.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
